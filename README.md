@@ -12,7 +12,8 @@ To use the Book Recommender System, simply enter the name of a book in the searc
 
 # Video Demo
 To see a demo of the Book Recommender System in action, check out this video:
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=y4f1k50jZhg" frameborder="0" allowfullscreen></iframe>
+[![Book Recommender System Demo](https://img.youtube.com/vi/y4f1k50jZhg/maxresdefault.jpg)](https://www.youtube.com/watch?v=y4f1k50jZhg)
+
 
 # Contributing
 
