@@ -1,6 +1,6 @@
 # Book Recommender System
 
-This is a Book Recommender System project that utilizes collaborative filtering to recommend popular books to users based on their preferences. The system is built using Python and the Flask web framework, and the data is sourced from the Book-Crossing dataset.
+This is a Book Recommender System project that utilizes collaborative filtering to recommend popular books to users based on their preferences. The system is built using Python and the Flask web framework, and the data is sourced from the Kaggle dataset.
 
 # Getting Started
 
